@@ -1,6 +1,6 @@
 name,Cleaned Link,Is PDF,Exists,Status
 University of Kalyani,https://klyuniv.ac.in/faculty-directory/,False,True,True
-IIM Calcutta (Indian Institute of Management Calcutta),https://www.iimcal.ac.in/faculty/faculty-directory,False,True,False
+IIM Calcutta (Indian Institute of Management Calcutta),https://www.iimcal.ac.in/faculty/faculty-directory,False,True,True
 "Indian Institute of Technology (IIT), Kharagpur",http://www.iitkgp.ac.in/departments,False,False,False
 "Indian Institute of Management (IIM), Calcutta",https://www.iimcal.ac.in/faculty/faculty-profiles,False,False,False
 "National Institute of Technology (NIT), Durgapur",https://nitdgp.ac.in/department,False,True,False
